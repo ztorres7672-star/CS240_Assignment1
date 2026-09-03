@@ -1,5 +1,5 @@
 # CS240_Assignment1
-Each of the sub-assignments are found in the Java files here in /src
+Each of the sub-assignments are found in the Java files here in Torres_Assignment1/src
 
 1. ASCII_Decimal:
     Program will ask for a String, type out any String on the next line.
