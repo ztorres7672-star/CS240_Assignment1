@@ -1,0 +1,11 @@
+R R R R R R R R R R R 
+R Y Y Y Y Y Y Y Y Y R 
+R Y Y Y Y Y Y Y Y Y R 
+R Y K Y Y Y Y Y K Y R 
+R Y Y Y Y Y Y Y Y Y R 
+R Y Y Y Y Y Y Y Y Y R 
+R Y Y Y Y Y Y Y Y Y R 
+R Y Y K Y Y Y K Y Y R 
+R Y Y K K K K K Y Y R 
+R Y Y Y Y Y Y Y Y Y R 
+R R R R R R R R R R R 
